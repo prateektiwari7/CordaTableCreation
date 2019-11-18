@@ -48,5 +48,3 @@ DatabaseValues initalised the database queries. And it has one inheritance of Da
 ##### RUN node 
 
 Run the RPC call from any node A or B.             
-
-
